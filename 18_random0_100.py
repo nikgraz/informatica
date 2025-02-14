@@ -1,3 +1,4 @@
+
 import random
 
 # Genera un numero decimale casuale tra 0 e 1
